@@ -15,7 +15,7 @@ public class Exercise {
      */
     public static void main(String[] args) {
       System.out.println("THere is my code in git");  
-    
+    // Hello there
     }
     
 }
